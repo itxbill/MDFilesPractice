@@ -11,8 +11,8 @@
 ##### Heading 6
 ---
 **This text will be bold**
-__This text will be Italic__
-**__Both Italic & Bold__**
+_This text will be Italic_
+**_Both Italic & Bold_**
 
 ![Image](https://via.placeholder.com/300 "example image")
 ===
