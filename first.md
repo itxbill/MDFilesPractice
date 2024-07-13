@@ -15,4 +15,5 @@ __This text will be Italic__
 **__Both Italic & Bold__**
 
 ![Image](https://via.placeholder.com/300 "example image")
+===
 [Link](https://via.placeholder.com/300 "example image")
